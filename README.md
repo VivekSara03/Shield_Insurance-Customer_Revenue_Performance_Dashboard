@@ -116,11 +116,6 @@ Data was cleaned in Excel and modeled in Power BI using relational data modeling
 
 ---
 
-## 📷 Dashboard Preview
-*(Add dashboard screenshots here)*
-
----
-
 ## 🏁 Conclusion
 
 This project enabled Shield Insurance to transition toward data-driven decision-making by transforming raw operational data into actionable insights across revenue, customer growth, and channel performance.
