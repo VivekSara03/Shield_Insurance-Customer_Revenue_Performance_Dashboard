@@ -1,5 +1,15 @@
 # Shield_Insurance-Customer_Revenue_Performance_Dashboard
 Developed an interactive Power BI dashboard analyzing 6 months of insurance revenue and customer performance. Evaluated daily growth rates, city-level contribution, sales modes, and age segmentation to support data-driven strategic decisions.
+
+----------
+## 📷 Dashboard Preview
+➡️*Interactive Dashboard :* https://app.powerbi.com/view?r=eyJrIjoiM2VmYjYzOWUtYzAzNS00OTUyLTkzMzItNDE4OTZmZjI0NDY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+➡️*Video Presentation :* https://www.linkedin.com/posts/vivekanandan-saravanan-32a25a164_codebasicsvirtualinternship-virtualinternship-activity-7425257335360778240-p4MH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACcxMlIBGM980ji0Ux0jwSU2O13sqYHyCgA
+
+⚠️ **Note:** *The dashboard shown in the 'Interactive Dashboard" is a updated version, where as the dashboard present in the 'Video Presentation' is a eariler version of the dashboard.*
+
+---
 # 🛡 Shield Insurance – Customer & Revenue Performance Analytics
 
 ## 📌 Project Overview
@@ -107,15 +117,8 @@ Data was cleaned in Excel and modeled in Power BI using relational data modeling
 
 ---
 
-## 📌 Resume Highlights
-
-- Built an interactive Power BI dashboard analyzing ₹989M revenue and 26.8K customers across 5 cities  
-- Identified 16.8% revenue growth and Delhi’s 40% revenue dominance  
-- Designed daily growth KPIs (DRG/DCG) for real-time performance tracking  
-- Delivered actionable insights for channel optimization and policy rationalization  
-
----
-
 ## 🏁 Conclusion
 
-This project enabled Shield Insurance to transition toward data-driven decision-making by transforming raw operational data into actionable insights across revenue, customer growth, and channel performance.
+This project enabled Shield Insurance to transition toward data-driven decision-making by transforming raw operational data into actionable insights across
+
+---revenue, customer growth, and channel performance.
